@@ -1,2 +1,2 @@
 # bioinfotools
-Bioinfomatics tools
+Beginner bioinfomatics tools for python practice
